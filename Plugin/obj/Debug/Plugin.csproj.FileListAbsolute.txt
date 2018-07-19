@@ -1,0 +1,76 @@
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\bin\Debug\Plugin.dll
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\bin\Debug\Plugin.pdb
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\bin\Debug\Newtonsoft.Json.xml
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\obj\Debug\Controls\LoginBox.baml
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\obj\Debug\Controls\RightClickMenu.baml
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\obj\Debug\Controls\LoginBox.g.cs
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\obj\Debug\Controls\RightClickMenu.g.cs
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\obj\Debug\Plugin_MarkupCompile.cache
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\obj\Debug\Plugin.g.resources
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\obj\Debug\Plugin.dll
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\obj\Debug\Plugin.pdb
+C:\Eclipse Projects\C#\AmiBrokerCrypto\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+c:\Eclipse Projects\C#\AmiBrokerCrypto_0.9\Plugin\bin\Debug\Plugin.dll
+c:\Eclipse Projects\C#\AmiBrokerCrypto_0.9\Plugin\bin\Debug\Plugin.pdb
+c:\Eclipse Projects\C#\AmiBrokerCrypto_0.9\Plugin\bin\Debug\Newtonsoft.Json.dll
+c:\Eclipse Projects\C#\AmiBrokerCrypto_0.9\Plugin\bin\Debug\Newtonsoft.Json.xml
+c:\Eclipse Projects\C#\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+c:\Eclipse Projects\C#\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Controls\RightClickMenu.baml
+c:\Eclipse Projects\C#\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Controls\RightClickMenu.g.cs
+c:\Eclipse Projects\C#\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Plugin_MarkupCompile.cache
+c:\Eclipse Projects\C#\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Plugin.g.resources
+c:\Eclipse Projects\C#\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Plugin.dll
+c:\Eclipse Projects\C#\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Plugin.pdb
+c:\Projects\AmiBrokerCrypto\Plugin\bin\Debug\Plugin.dll
+c:\Projects\AmiBrokerCrypto\Plugin\bin\Debug\Plugin.pdb
+c:\Projects\AmiBrokerCrypto\Plugin\bin\Debug\Newtonsoft.Json.dll
+c:\Projects\AmiBrokerCrypto\Plugin\bin\Debug\Newtonsoft.Json.xml
+c:\Projects\AmiBrokerCrypto\Plugin\obj\Debug\Controls\RightClickMenu.baml
+c:\Projects\AmiBrokerCrypto\Plugin\obj\Debug\Controls\RightClickMenu.g.cs
+c:\Projects\AmiBrokerCrypto\Plugin\obj\Debug\Plugin_MarkupCompile.cache
+c:\Projects\AmiBrokerCrypto\Plugin\obj\Debug\Plugin.g.resources
+c:\Projects\AmiBrokerCrypto\Plugin\obj\Debug\Plugin.dll
+c:\Projects\AmiBrokerCrypto\Plugin\obj\Debug\Plugin.pdb
+c:\Projects\AmiBrokerCrypto\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+e:\v0.9\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+e:\v0.9\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Controls\RightClickMenu.baml
+e:\v0.9\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Controls\RightClickMenu.g.cs
+e:\v0.9\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Plugin_MarkupCompile.cache
+e:\v0.9\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Plugin.g.resources
+e:\v0.9\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Plugin.dll
+e:\v0.9\AmiBrokerCrypto_0.9\Plugin\obj\Debug\Plugin.pdb
+e:\v0.9\AmiBrokerCrypto_0.9\Plugin\bin\Debug\Plugin.dll
+e:\v0.9\AmiBrokerCrypto_0.9\Plugin\bin\Debug\Plugin.pdb
+e:\v0.9\AmiBrokerCrypto_0.9\Plugin\bin\Debug\Newtonsoft.Json.dll
+e:\v0.9\AmiBrokerCrypto_0.9\Plugin\bin\Debug\Newtonsoft.Json.xml
+c:\Eclipse Projects\C#\WebSocket\Plugin\bin\Debug\Plugin.dll
+c:\Eclipse Projects\C#\WebSocket\Plugin\bin\Debug\Plugin.pdb
+c:\Eclipse Projects\C#\WebSocket\Plugin\bin\Debug\Newtonsoft.Json.dll
+c:\Eclipse Projects\C#\WebSocket\Plugin\bin\Debug\SuperSocket.ClientEngine.dll
+c:\Eclipse Projects\C#\WebSocket\Plugin\bin\Debug\websocket-sharp.dll
+c:\Eclipse Projects\C#\WebSocket\Plugin\bin\Debug\WebSocket4Net.dll
+c:\Eclipse Projects\C#\WebSocket\Plugin\bin\Debug\Newtonsoft.Json.xml
+c:\Eclipse Projects\C#\WebSocket\Plugin\bin\Debug\websocket-sharp.xml
+c:\Eclipse Projects\C#\WebSocket\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+c:\Eclipse Projects\C#\WebSocket\Plugin\obj\Debug\Controls\RightClickMenu.baml
+c:\Eclipse Projects\C#\WebSocket\Plugin\obj\Debug\Controls\RightClickMenu.g.cs
+c:\Eclipse Projects\C#\WebSocket\Plugin\obj\Debug\Plugin_MarkupCompile.cache
+c:\Eclipse Projects\C#\WebSocket\Plugin\obj\Debug\Plugin.g.resources
+c:\Eclipse Projects\C#\WebSocket\Plugin\obj\Debug\Plugin.dll
+c:\Eclipse Projects\C#\WebSocket\Plugin\obj\Debug\Plugin.pdb
+c:\Projects\WebSocket\Plugin\bin\Debug\Plugin.dll
+c:\Projects\WebSocket\Plugin\bin\Debug\Plugin.pdb
+c:\Projects\WebSocket\Plugin\bin\Debug\Newtonsoft.Json.dll
+c:\Projects\WebSocket\Plugin\bin\Debug\SuperSocket.ClientEngine.dll
+c:\Projects\WebSocket\Plugin\bin\Debug\websocket-sharp.dll
+c:\Projects\WebSocket\Plugin\bin\Debug\WebSocket4Net.dll
+c:\Projects\WebSocket\Plugin\bin\Debug\Newtonsoft.Json.xml
+c:\Projects\WebSocket\Plugin\bin\Debug\websocket-sharp.xml
+c:\Projects\WebSocket\Plugin\obj\Debug\Controls\RightClickMenu.baml
+c:\Projects\WebSocket\Plugin\obj\Debug\Controls\RightClickMenu.g.cs
+c:\Projects\WebSocket\Plugin\obj\Debug\Plugin_MarkupCompile.cache
+c:\Projects\WebSocket\Plugin\obj\Debug\Plugin.g.resources
+c:\Projects\WebSocket\Plugin\obj\Debug\Plugin.dll
+c:\Projects\WebSocket\Plugin\obj\Debug\Plugin.pdb
+c:\Projects\WebSocket\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache

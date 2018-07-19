@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WebSocket4Net</id>
+    <version>0.15.2</version>
+    <title>WebSocket4Net</title>
+    <authors>Kerry Jiang</authors>
+    <owners>Kerry Jiang</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://websocket4net.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WebSocket4Net is a .NET websocket client implemtation. It originates from SuperWebSocket WebSocket Client. For better developing of the websocket client, it was separated from SuperWebSocket and was renamed to WebSocket4Net.</description>
+    <summary />
+    <tags>WebSocket WebSocket4Net SuperWebSocket</tags>
+    <dependencies>
+      <group>
+        <dependency id="SuperSocket.ClientEngine.Core" version="0.10.0" />
+      </group>
+      <group targetFramework="Unsupported0.0">
+        <dependency id="SuperSocket.ClientEngine.Core" version="0.10.0" />
+        <dependency id="System.Linq" version="4.3.0" />
+        <dependency id="System.Net.Sockets" version="4.3.0" />
+        <dependency id="System.Net.NameResolution" version="4.3.0" />
+        <dependency id="System.Threading.Timer" version="4.3.0" />
+        <dependency id="System.Text.RegularExpressions" version="4.3.0" />
+        <dependency id="System.Threading" version="4.3.0" />
+      </group>
+    </dependencies>
+    <references>
+      <reference file="WebSocket4Net.dll" />
+    </references>
+  </metadata>
+</package>

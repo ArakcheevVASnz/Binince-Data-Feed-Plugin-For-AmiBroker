@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SuperSocket.ClientEngine.Core</id>
+    <version>0.10.0</version>
+    <title>SuperSocket.ClientEngine, a socket client util</title>
+    <authors>Kerry Jiang</authors>
+    <owners>Kerry Jiang</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://www.supersocket.net/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>It's a .NET socket tool which can simplify the socket client developing. This difference between this package and SuperSocket.ClientEngine is it doesn't include the protocol resolving library.</description>
+    <summary />
+    <tags>SuperSocket Socket Client</tags>
+    <dependencies>
+      <group targetFramework="Unsupported0.0">
+        <dependency id="System.Linq" version="4.3.0" />
+        <dependency id="System.Net.Sockets" version="4.3.0" />
+        <dependency id="System.Runtime.Extensions" version="4.3.0" />
+        <dependency id="System.Runtime.InteropServices" version="4.3.0" />
+        <dependency id="System.Security.Cryptography.X509Certificates" version="4.3.0" />
+        <dependency id="System.Net.Security" version="4.3.0" />
+        <dependency id="System.Net.NameResolution" version="4.3.0" />
+        <dependency id="System.Collections.Specialized" version="4.3.0" />
+      </group>
+    </dependencies>
+    <references>
+      <reference file="SuperSocket.ClientEngine.dll" />
+    </references>
+  </metadata>
+</package>
